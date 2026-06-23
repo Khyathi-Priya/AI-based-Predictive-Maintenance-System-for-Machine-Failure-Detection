@@ -35,23 +35,35 @@ Unplanned downtime in manufacturing is costly and disruptive. This project build
 
 ## 📸 Screenshots
 
-### 🖥️ Machine Parameter Input
-![App Input Form](images/app_input_form.png)
+### 🖥️ Input Parameters for healthy manchine
+![App Input Form](pictures/Screenshot 2026-06-19 153315.png)
 
 ### ✅ Healthy Machine Prediction
-![No Failure Predicted](images/no_failure_predicted.png)
+![No Failure Predicted](pictures/Screenshot 2026-06-19 153801.png)
+
+### Health status
+![Healthy machine](pictures/Screenshot 2026-06-19 153837.png)
+
+### Suggestions
+![suggestions](pictures/Screenshot 2026-06-19 153846.png)
+
+### 🖥️ Input Parameters for Unhealthy manchine
+![Unhealthy](pictures/Screenshot 2026-06-19 153949.png)
 
 ### ⚠️ Failure Risk Prediction
-![Failure Predicted](images/failure_predicted.png)
+![Failure Predicted](pictures/Screenshot 2026-06-19 154007.png)
+
+### Health status
+![Unhealthy machine](pictures/Screenshot 2026-06-19 154027.png)
 
 ### 🧠 Failure Reasons & Maintenance Suggestions
-![Failure Reasons and Suggestions](images/failure_reasons_suggestions.png)
+![Failure Reasons and Suggestions](pictures/Screenshot 2026-06-19 154038.png)
 
 ### 📊 Model Accuracy Comparison
-![Model Accuracy Comparison](images/model_accuracy_comparison.png)
+![Model Accuracy Comparison](pictures/Screenshot 2026-06-19 154017.png)
 
 ### 📋 Detailed Model Comparison Table
-![Model Comparison Table](images/model_comparison_table.png)
+![Model Comparison Table](pictures/Screenshot 2026-06-19 154007.png)
 
 ---
 
